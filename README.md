@@ -1,2 +1,1 @@
-# testplswork
-# testplswork
+# C++ course assignment repo
